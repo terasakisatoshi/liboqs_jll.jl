@@ -1,0 +1,142 @@
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "105eaeedc6238f255931ee0f5d1725f91c5200d7"
+os = "macos"
+
+    [[liboqs.download]]
+    sha256 = "ae7170e28dc2e4f21e8bf3cf5425a93f8bc1c808887a11c0dab37ff00a739715"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-apple-darwin.tar.gz"
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "fe51ffe59d7ab05287c6edfb8211775fb29ffcfc"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "83b2feaf5a46e1051221d52fc30f31602b96cab41d15f1be196fd7c61e4f8107"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "2365284df14c79ca1e9e7bff153c9f0cbaf7284e"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "c0845812a5a4f42b97e347ddfb19573340b831ad0e8dc672a5e6fa5292629f07"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-linux-musl.tar.gz"
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "114eaae150b22bea94fe92ae57daa6cadeae8c44"
+os = "freebsd"
+
+    [[liboqs.download]]
+    sha256 = "fcf2f0d59fa80731827a1a9fc8968f1107460a452f70d7421d70b56501aaef3c"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-unknown-freebsd.tar.gz"
+[[liboqs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b2fe36553a64e678dd0acc1bc90dcc040df0485"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "907bc97a62a6b78d75fc7c4317aafc83a4d1d99a416697c06db3d7ade1eb8e9d"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv6l-linux-gnueabihf.tar.gz"
+[[liboqs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ce32cd1085c872f2a6fba585c37f6e7ee18c8c4e"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "3e5e391fe46220ee9469b8692bfc2a50d8e35c83eeff25169c93e8cf5ab05494"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv6l-linux-musleabihf.tar.gz"
+[[liboqs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0e82770ca2054cb59798291e321fc920e6245cb7"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "e674bed894cafc03e3c64b5d2d326e20436d67bca3d43655ed466daffca0816f"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv7l-linux-gnueabihf.tar.gz"
+[[liboqs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "deb54c8d7c026341065e83705ce990d6c9cecbe8"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "39701a088aa0d677902399b4ca6f025a6dad0aab07386779b9b0cebbfaa8f217"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv7l-linux-musleabihf.tar.gz"
+[[liboqs]]
+arch = "i686"
+git-tree-sha1 = "6f052d011538ed24e1a862537439bf69b2eb8e60"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "2472ca9bca5d29376698257f1cbdd19e911d21871834af04f6ece4c1b05dfbfd"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.i686-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "i686"
+git-tree-sha1 = "507f0098b00581640f09cdd2a268df2a44354bfa"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "31b85d9c5500dec5e19b8af4bd9b2305d8264c7f62ff838032ab29311bc6e7de"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.i686-linux-musl.tar.gz"
+[[liboqs]]
+arch = "i686"
+git-tree-sha1 = "2fac8efc59d14de7af67847e32f02d0db608e0cb"
+os = "windows"
+
+    [[liboqs.download]]
+    sha256 = "8e8b2080f53c79414d7b80f4442e545d1eb8f564aec2d923d1a5b9be711847f9"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.i686-w64-mingw32.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "526b05f5c3fa9cdef37e3746be06500dea71c629"
+os = "macos"
+
+    [[liboqs.download]]
+    sha256 = "e8de0440b7b8c97c6281b851707936fccb9755394cd28851630ce2de7d0fece5"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-apple-darwin.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "f5c9c9b45b8a34f47f89a67a42e9bc7b37e9cbc9"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "ed5e5651d707161b28a1b5a87420cfb22686a6a910e8b4dab7b0bfb327c4aa9f"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "964d54b1d1205eccc644647c40b4dc2d134abe1c"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "668d2c414ffa5b18fd294ab8f77012f69b36f7227b02edd11d19b3f7a8cb6176"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-linux-musl.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "41ff86fdc617392419c270fb72862931a1379e42"
+os = "freebsd"
+
+    [[liboqs.download]]
+    sha256 = "53b198456231869128413def4600523a08f1cd35bb5cd7e35b0e8a341894c3bb"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-unknown-freebsd.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "66e53b4f0d3f1a5ebc80f1e759f32b1ab423f556"
+os = "windows"
+
+    [[liboqs.download]]
+    sha256 = "cee62be7f6cbc64ddb486940199f7590d79df4bb2adaad00552ba64b1db4e06a"
+    url = "https://github.com/terasakisatoshi/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-w64-mingw32.tar.gz"
